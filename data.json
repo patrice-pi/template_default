@@ -1,0 +1,19 @@
+{
+  "users":[
+    {
+      "name":"jean-claude",
+      "age":46,
+      "height": 175
+    },
+    {
+      "name":"albert",
+      "age":31,
+      "height": 167
+    },
+    {
+      "name":"lepen",
+      "age":70,
+      "height": 158
+    }
+  ]
+}
